@@ -1,5 +1,6 @@
-# 💫 ABOUT ME :
-👋 Hi, I'm Mohammad Noor Havid<br><br>💻 Web Developer | Frontend Developer | IT Enthusiast<br><br>Welcome to my GitHub profile!<br>I'm passionate about learning technology, building applications, and improving my skills through real-world projects.<br><br>🚀 About Me :<br>💻 Currently Web Development & Backend Development<br>🌐 Working with HTML, CSS, JavaScript, PHP, Laravel, Node.js & Express.js<br>🗄️ Learning MySQL & Database Management<br>📊 Interested in Microsoft Excel & Data Management<br>🔧 Learning Git & GitHub<br>☁️ Exploring Vercel & Web Deployment<br>📚 Always learning new technologies and building projects
+![mohammadnoorhavid](img/github-header-banner%20(1).png)
+
+Welcome to my GitHub profile!<br>I'm passionate about learning technology, building applications, and improving my skills through real-world projects.<br><br>🚀 About Me :<br>💻 Currently Web Development & Backend Development<br>🌐 Working with HTML, CSS, JavaScript, PHP, Laravel, Node.js & Express.js<br>🗄️ Learning MySQL & Database Management<br>📊 Interested in Microsoft Excel & Data Management<br>🔧 Learning Git & GitHub<br>☁️ Exploring Vercel & Web Deployment<br>📚 Always learning new technologies and building projects
 
 
 ## 🌐 Socials:
